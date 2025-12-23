@@ -9,6 +9,22 @@
     z-index: 1;
 }
 
+.downArrow {
+    height : 15px;
+    width : 15px;
+    filter: brightness(0) invert(1);
+    margin-left : 5px
+}
+
+.search-icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;  
+filter: brightness(0) invert(1);
+ 
+}
+
+
 .about-one__shape-1 {
     position: absolute;
     width: 927px;
