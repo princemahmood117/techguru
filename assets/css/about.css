@@ -15,6 +15,62 @@
     filter: brightness(0) invert(1);
     margin-left : 5px
 }
+.rightQuote{
+    height : 40px;
+    width : 40px;
+    filter: brightness(0) invert(1);
+}
+
+.testimonialStar {
+   width : 10px;
+   height : 2px;
+
+}
+.topIcons{
+    height: 30px;
+    width : 30px; 
+    filter: brightness(0) invert(1);
+}
+
+.technical{
+    height: 39px;
+    width : 39px;  
+}
+
+.futureIcons {
+     height : 35px;
+    width : 35px;
+    filter: brightness(0) invert(1);
+}
+
+.counterIcons{
+     height : 30px;
+    width : 30px;
+    filter: brightness(0) invert(1);
+}
+
+.homeIcon{
+    height: 12px;
+    width : 12px;
+        filter: brightness(0) invert(1);
+}
+
+.rightIcon{
+    height: 14px;
+    width : 14px;
+        filter: brightness(0) invert(1);
+}
+
+.checkmarkicon {
+    height: 14px;
+    width : 14px;    
+}
+
+.teamSearch {
+    height: 15px;
+    width : 15px;
+        filter: brightness(0) invert(1);
+}
 
 .search-icon {
   width: 18px;
@@ -22,6 +78,12 @@
   object-fit: contain;  
 filter: brightness(0) invert(1);
  
+}
+
+.teamRightIcon{
+    height : 15px;
+    width : 15px;
+    filter: brightness(0) invert(1);
 }
 
 
