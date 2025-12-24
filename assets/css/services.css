@@ -29,6 +29,12 @@
     filter : brightness(0) invert(1);
 }
 
+.subscribeRightArrow {
+        height : 16px;
+    width : 16px;
+    filter : brightness(0) invert(1);
+}
+
 
 .superChargeSolutiuon{
     height : 37px;
