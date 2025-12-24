@@ -37,12 +37,13 @@
 
 @import "./style.css";
 
+@import "./gallary.css";
+
 @import "./page-header.css";
 
 @import "./banner.css";
 
 @import "./footer.css";
-
 
 @import "./about.css";
 
